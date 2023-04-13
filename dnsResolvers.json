@@ -10,5 +10,9 @@
   {
     "host": "Quad9",
     "resolver": "9.9.9.9"
+  },
+  {
+    "host": "Pidor",
+    "resolver": "64-6-64-6.dns64.net"
   }
 ]
