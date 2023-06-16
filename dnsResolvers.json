@@ -1,10 +1,6 @@
 [
   {
     "host": "Cloudflare",
-    "resolver": "1.1.1.1"
-  },
-  {
-    "host": "Cloudflare",
     "resolver": "1.0.0.1"
   },
   {
@@ -12,52 +8,16 @@
     "resolver": "8.8.8.8"
   },
   {
-    "host": "Google",
-    "resolver": "8.8.4.4"
-  },
-  {
     "host": "Quad9",
     "resolver": "9.9.9.9"
-  },
-  {
-    "host": "Quad9",
-    "resolver": "149.112.112.112"
-  },
-  {
-   "host": "OpenDNS Home",
-    "resolver": "208.67.222.222"
-  },
-  {
-    "host": "OpenDNS Home",
-    "resolver": "208.67.220.220"
   },
   {
     "host": "CleanBrowsing",
     "resolver": "185.228.168.168"
   },
   {
-    "host": "CleanBrowsing",
-    "resolver": "185.228.169.168"
-  },
-  {
-    "host": "Alternate DNS",
-    "resolver": "76.76.19.19"
-  },
-  {
-    "host": "AdGuard DNS",
-    "resolver": "94.140.14.14"
-  },
-  {
     "host": "AdGuard DNS",
     "resolver": "94.140.15.15"
-  },
-  {
-    "host": "ControlD Public DNS",
-    "resolver": "198.101.242.72"
-  },
-  {
-    "host": "DNS.Watch",
-    "resolver": "84.200.69.80"
   },
   {
     "host": "DNS.Watch",
@@ -67,8 +27,4 @@
     "host": "Comodo Secure DNS",
     "resolver": "8.26.56.26"
   },
-  {
-    "host": "Comodo Secure DNS",
-    "resolver": "8.20.247.20"
-  }
 ]
